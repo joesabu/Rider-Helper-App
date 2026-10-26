@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RideCall Intercom</string>
+    <string name="connect">Connect</string>
+    <string name="mute">Mute</string>
+    <string name="unmute">Unmute</string>
+    <string name="end_call">End Call</string>
+    <string name="status_idle">Idle</string>
+    <string name="status_listening">Listening for incoming call…</string>
+    <string name="status_connecting">Connecting to %1$s…</string>
+    <string name="status_connected">Connected to %1$s</string>
+    <string name="status_reconnecting">Reconnecting to %1$s… (attempt %2$d)</string>
+    <string name="status_error">Error: %1$s</string>
+    <string name="no_paired_devices">No paired devices found. Pair a device in Android Bluetooth settings first.</string>
+    <string name="notification_channel_name">Voice Call</string>
+    <string name="paired_devices_label">Paired devices:</string>
+    <string name="version_label">v%1$s (%2$d)</string>
+    <string name="audio_route_label">Audio output</string>
+    <string name="audio_route_bluetooth">Bluetooth headset</string>
+    <string name="audio_route_earpiece">Earpiece</string>
+    <string name="audio_route_speaker">Speaker</string>
+</resources>
